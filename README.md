@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gopalrajoriya
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web/App Development
 - 🌱 I’m currently learning DSA and Web Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me rajoriyagopal786@gmail.com
